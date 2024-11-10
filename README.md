@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Web Developer** and a hobby **Indie Game Developer** who loves creating projects from web applications to video games. Here's a bit about what I know and the tools I work with.
-
+I’m a passionate **Web Developer** with a strong focus on **backend development**. I enjoy creating diverse projects, especially **robust and efficient web applications**. Here’s a bit about my skills and the tools I work with.
 ## 👨‍💻 About Me
 
 I'm a **full-stack web developer** and **indie game developer** based in Spain. My passion lies in blending creativity with technology, whether it's building immersive web experiences or crafting fun and engaging video games.
