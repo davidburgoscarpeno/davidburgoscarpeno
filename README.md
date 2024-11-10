@@ -35,6 +35,6 @@ When I'm not coding, you can find me experimenting with new game mechanics, crea
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-burgos-carpeño-5ab797220)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aeclipsia)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/dburgoscarpeno@gmail.com)
 
 💬 Feel free to reach out and connect! I’m always excited to discuss new projects, ideas, or collaborations!
