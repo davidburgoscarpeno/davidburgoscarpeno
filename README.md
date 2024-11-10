@@ -5,7 +5,8 @@ I’m a passionate **Web Developer** with a strong focus on **backend developmen
 
 I'm a **full-stack web developer** from Madrid, Spain. My passion lies in blending creativity with technology, especially in building immersive and engaging web experiences.
 
-When I'm not coding, you can find me experimenting with new game mechanics, creating pixel art, or diving into 3D modeling with **Blender**. I also enjoy graphic design and digital art, using tools like **Clip Studio Paint** to express my creativity.
+When I'm not coding, I enjoy staying active by running and connecting with people from different cultures and countries through video games.
+
 
 ---
 
