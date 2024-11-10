@@ -36,24 +36,6 @@ When I'm not coding, you can find me experimenting with new game mechanics, crea
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-## 🎨 Design and Art Software
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-DA3C29?style=for-the-badge&logo=autocad&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-9B7A00?style=for-the-badge&logo=clip-studio&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-0C4C6B?style=for-the-badge&logo=krita&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-8B3A3A?style=for-the-badge&logo=zbrush&logoColor=white)
-
-## 🎮 Game Development
-![GDevelop](https://img.shields.io/badge/GDevelop-00BFFF?style=for-the-badge&logo=gdevelop&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
 
