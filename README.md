@@ -3,7 +3,7 @@
 I’m a passionate **Web Developer** with a strong focus on **backend development**. I enjoy creating diverse projects, especially **robust and efficient web applications**. Here’s a bit about my skills and the tools I work with.
 ## 👨‍💻 About Me
 
-I'm a **full-stack web developer** and **indie game developer** based in Spain. My passion lies in blending creativity with technology, whether it's building immersive web experiences or crafting fun and engaging video games.
+I'm a **full-stack web developer** from Madrid, Spain. My passion lies in blending creativity with technology, especially in building immersive and engaging web experiences.
 
 When I'm not coding, you can find me experimenting with new game mechanics, creating pixel art, or diving into 3D modeling with **Blender**. I also enjoy graphic design and digital art, using tools like **Clip Studio Paint** to express my creativity.
 
