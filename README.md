@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I’m a passionate **Web Developer** with a strong focus on **backend development**. I enjoy creating diverse projects, especially **robust and efficient web applications**. Here’s a bit about my skills and the tools I work with.
+I’m a passionate Web Developer with a strong focus on backend and frontend development. I enjoy creating diverse projects, especially robust and efficient web applications.
+
 ## 👨‍💻 About Me
 
 I'm a **full-stack web developer** from Madrid, Spain. My passion lies in blending creativity with technology, especially in building immersive and engaging web experiences.
